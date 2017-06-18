@@ -1,0 +1,17 @@
+div#notebook {
+    border-bottom: 1px solid #eeeeee;
+    margin: 46px 0 23px;
+    padding-bottom: 10.5px;
+}
+
+.cell {
+    padding: 10px 0;
+}
+
+.anchor-link {
+    display: none;
+}
+
+body {
+    font-size: 21px;
+}
